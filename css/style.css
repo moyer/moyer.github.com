@@ -57,6 +57,15 @@ h5,.epsilon{font-size:1rem;line-height:1.5;}
 h6,.zeta{font-size:.8rem;line-height:1.5;}
 .container{margin:0 auto;width:35rem;max-width:100%;padding:0 .85rem;}
 .title{color:#fff;background-color:#222;padding:3.4rem 0;margin-bottom:3.4rem;}
+.hero{margin-top:20%;margin-left:20%;position:relative;min-width:100%;min-height:19em;font-size:1rem;}
+[class*=hero__]{display:block;line-height:1;position:absolute;}
+.hero__willmoyer{font-weight:200;font-size:4em;top:.208333333em;left:.041666667em;}
+.hero__isa{font-weight:200;font-size:2em;top:2.222222222em;left:.352941176em;}
+.hero__designer,.hero__amp,.hero__writer{font-family:'Abril Fatface',serif;font-size:8em;}
+.hero__designer{top:.416666667em;left:.381944444em;}
+.hero__amp{top:.694444444em;left:-0.347222222em;}
+.hero__writer{top:1.180555556em;left:.402777778em;}
+.hero-writer span{position:relative;left:-0.055555556em;}
 .center{display:block;margin-right:auto;margin-left:auto;}
 .full-width{width:100%;}
 .text-center{text-align:center;}
