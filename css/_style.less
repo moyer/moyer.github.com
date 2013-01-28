@@ -401,6 +401,7 @@ textarea {
 
 html, body {
     width: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -553,7 +554,7 @@ h6, .zeta {
 
 .title {
     color: #fff;
-    background-color: #222;
+    background-color: #111;
     padding: 3.4rem 0;
     margin-bottom: 3.4rem;
 }
@@ -565,57 +566,72 @@ h6, .zeta {
     $HERO
 \*------------------------------------*/
 
-.hero {
-    margin-top: 20%;
-    margin-left: 20%;
-    position: relative;
-    min-width: 100%;
-    min-height: 19em;
-    font-size: 1rem;
+
+.container-center {
+    display: table;
+    width: 100%;
+    height: 100%;
 }
 
-     [class*=hero__]{
+    .container-center__content {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        position: relative;
+    }
+
+
+.hero {
+    font-size: 1rem;
+
+    position: relative;
+    width: 35em;
+    min-height: 18em;
+    margin: 0 auto;
+}
+
+    /*.hero:hover*/ [class*=hero__]{
         display: block;
         line-height: 1;
         position: absolute;
     }
 
-     .hero__willmoyer {
+    /*.hero:hover*/ .hero__willmoyer {
         font-weight: 200;
         font-size: 4em;
         top: .208333333em;
         left: .041666667em;
     }
 
-     .hero__isa {
+    /*.hero:hover*/ .hero__isa {
         font-weight: 200;
         font-size: 2em;
         top: 2.222222222em;
         left: .352941176em;
     }
 
-     .hero__designer,  .hero__amp,  .hero__writer {
+    /*.hero:hover*/ .hero__designer, /*.hero:hover*/ .hero__amp, /*.hero:hover*/ .hero__writer {
         font-family: 'Abril Fatface', serif;
         font-size: 8em;
     }
 
-     .hero__designer {
+    /*.hero:hover*/ .hero__designer {
         top: .416666667em;
         left: .381944444em;
     }
 
-     .hero__amp {
+    /*.hero:hover*/ .hero__amp {
         top: .694444444em;
         left: -.347222222em;
     }
 
 
-     .hero__writer {
+    /*.hero:hover*/ .hero__writer {
         top: 1.180555556em;
         left: .402777778em;
     }
 
-         .hero-writer span {
+        /*.hero:hover*/ .hero__writer span {
             position: relative;
             left: -.055555556em;
         }
