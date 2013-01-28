@@ -495,7 +495,7 @@ html {
     font-size: 85%;
 }
 
-@media only screen and (min-width: 35rem) {
+@media only screen and (min-width: 630px) {
     html { font-size: 112.5%; }
 }
 
@@ -582,13 +582,18 @@ h6, .zeta {
 
 
 .hero {
-    font-size: 1rem;
+    font-size: .5rem;
 
     position: relative;
     width: 35em;
     min-height: 18em;
     margin: 0 auto;
+    top: -1.7em;
 }
+
+    @media only screen and (min-width: 630px) {
+        .hero { font-size: 1rem }
+    }
 
     /*.hero:hover*/ [class*=hero__]{
         display: block;

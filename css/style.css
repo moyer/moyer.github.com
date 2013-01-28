@@ -46,7 +46,7 @@ img{vertical-align:middle;}
 fieldset{border:0;margin:0;padding:0;}
 textarea{resize:vertical;}
 html{font-size:85%;}
-@media only screen and (min-width:35rem){html{font-size:112.5%;}}body{font-family:'Source Sans Pro',sans-serif;font-weight:400;}
+@media only screen and (min-width:630px){html{font-size:112.5%;}}body{font-family:'Source Sans Pro',sans-serif;font-weight:400;}
 h1,h2,h3,h4,h5,h6,hgroup,strong{font-weight:700;}
 h1,h2,h3{font-weight:normal;font-family:'Abril Fatface',serif;}
 h1,.alpha{font-size:4.6rem;line-height:1.1;}
@@ -59,8 +59,8 @@ h6,.zeta{font-size:.8rem;line-height:1.5;}
 .title{color:#fff;background-color:#111;padding:3.4rem 0;margin-bottom:3.4rem;}
 .container-center{display:table;width:100%;height:100%;}
 .container-center__content{display:table-cell;text-align:center;vertical-align:middle;position:relative;}
-.hero{font-size:1rem;position:relative;width:35em;min-height:18em;margin:0 auto;}
-[class*=hero__]{display:block;line-height:1;position:absolute;}
+.hero{font-size:.5rem;position:relative;width:35em;min-height:18em;margin:0 auto;top:-1.7em;}
+@media only screen and (min-width:630px){.hero{font-size:1rem;}}[class*=hero__]{display:block;line-height:1;position:absolute;}
 .hero__willmoyer{font-weight:200;font-size:4em;top:.208333333em;left:.041666667em;}
 .hero__isa{font-weight:200;font-size:2em;top:2.222222222em;left:.352941176em;}
 .hero__designer,.hero__amp,.hero__writer{font-family:'Abril Fatface',serif;font-size:8em;}
