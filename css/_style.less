@@ -629,8 +629,8 @@ h6, .zeta {
 .footer {
     background-color: #111;
     color: #666;
-    padding: 1.7rem 0;
-    overflow: hidden;
+    padding: 1.7rem;
+    .clearfix;
 }
     .footer a {
         border: none;
@@ -645,6 +645,28 @@ h6, .zeta {
         width: 50%;
     }
 
+
+
+
+
+/*------------------------------------*\
+    $PORTFOLIO
+\*------------------------------------*/
+
+
+
+.portfolio__img {
+    float: left;
+    width: 100%;
+    border: .425rem solid #111;
+}
+
+@media only screen and (min-width: 630px) {
+        .portfolio__img { 
+            width: 33%; 
+            border: .425rem solid #111;
+        }
+    }
 
 
 /*------------------------------------*\
@@ -791,6 +813,7 @@ h6, .zeta {
 
 .margin-b {
     margin-bottom: 1.7rem;
+    .clearfix;
 }
 
 .margin-l {
@@ -807,6 +830,7 @@ h6, .zeta {
 
 .margin-bs {
     margin-bottom: .85rem;
+    .clearfix;
 }
 
 .margin-ls {
@@ -885,7 +909,7 @@ h6, .zeta {
 }
 
 /*
- * Clearfix: contain floats
+ * Clearfix: contain floats (use as mixin when possible)
  *
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
@@ -896,23 +920,19 @@ h6, .zeta {
  *    `:before` to contain the top-margins of child elements.
  */
 
-.clearfix:before,
-.clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-/*
- * For IE 6/7 only
- * Include this rule to trigger hasLayout and contain floats.
- */
-
 .clearfix {
-    *zoom: 1;
+    *zoom: 1; /* For IE 6/7 only -- triggers hasLayout */
+
+    &:before,
+    &:after {
+        content: " "; /* 1 */
+        display: table; /* 2 */
+    }
+
+    &:after {
+        clear: both;
+    }
+
 }
 
 
