@@ -75,7 +75,7 @@ h6,.zeta{font-size:.8rem;line-height:1.5;}
 @media only screen and (min-width:630px){.portfolio__img{width:33%;border:.425rem solid #111;}}.about{position:relative;}
 .about__img{width:100%;max-width:100%;}
 .about__body{margin:0 auto;width:35rem;max-width:100%;padding:3.4rem .85rem;}
-@media only screen and (min-width:960px){.about__body{position:absolute;top:0;left:50%;right:0;bottom:0;margin:0;width:auto;padding:1.7rem;background-color:rgba(255, 255, 255, 0.9);}}.container-center{display:table;width:100%;height:100%;}
+@media only screen and (min-width:1000px){.about__body{position:absolute;top:0;left:50%;right:0;bottom:0;margin:0;width:auto;padding:3.4rem;background-color:rgba(255, 255, 255, 0.9);}}.container-center{display:table;width:100%;height:100%;}
 .container-center__content{display:table-cell;text-align:center;vertical-align:middle;position:relative;}
 .hero{font-size:.5rem;position:relative;width:35em;min-height:18em;margin:0 auto;top:-1.7em;}
 @media only screen and (min-width:630px){.hero{font-size:1rem;}}[class*=hero__]{display:block;line-height:1;position:absolute;}
