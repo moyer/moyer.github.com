@@ -12,4 +12,4 @@ Almost all the content is written in [Markdown](http://daringfireball.net/projec
 
 This site was handcoded (with love) in Sublime Text 2 on a MacBook Pro 15-inch with Retina display. It is powered by [Jekyll](http://jekyllrb.com/) and [GitHub Pages](http://pages.github.com/). All of the source code is viewable in a GitHub [repository](https://github.com/moyer/moyer.github.com).
 
-The previous version of this site can be seen [here](http://v3.willmoyer.com/).
+It makes me cringe but previous versions of this site can be seen [here](http://v3.willmoyer.com/) and [here](http://v2.willmoyer.com/) and [here](http://v1.willmoyer.com/).
