@@ -516,7 +516,6 @@ img {
     $NAVIGATION
 \*------------------------------------*/
 
-
 .nav {
     list-style:none;
     margin:0;
@@ -585,12 +584,12 @@ h2, .beta {
     line-height: 1.2;
 }
 
-h3, .delta {
+h3, .gamma {
     font-size: 1.7rem;
     line-height: 1.3;
 }
 
-h4, .gamma {
+h4, .delta {
     font-size: 1.7rem;
     line-height: 1.3;
 }
@@ -613,13 +612,25 @@ h6, .zeta {
     $MAIN STYLES
 \*------------------------------------*/
 
-
 .container {
     margin: 0 auto;
     width: 630/18rem;
     max-width: 100%;
     padding: 3.4rem .85rem;
 }
+
+.container-center {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+    .container-center__content {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        position: relative;
+    }
 
 .title {
     color: #fff;
@@ -653,8 +664,6 @@ h6, .zeta {
     $PORTFOLIO
 \*------------------------------------*/
 
-
-
 .portfolio__img {
     float: left;
     width: 100%;
@@ -676,7 +685,6 @@ h6, .zeta {
 /*------------------------------------*\
     $ABOUT
 \*------------------------------------*/
-
 
 .about {
     position: relative;
@@ -713,21 +721,6 @@ h6, .zeta {
 /*------------------------------------*\
     $HERO
 \*------------------------------------*/
-
-
-.container-center {
-    display: table;
-    width: 100%;
-    height: 100%;
-}
-
-    .container-center__content {
-        display: table-cell;
-        text-align: center;
-        vertical-align: middle;
-        position: relative;
-    }
-
 
 .hero {
     font-size: .5rem;
@@ -791,6 +784,41 @@ h6, .zeta {
 
 
 
+
+
+/*------------------------------------*\
+    $404
+\*------------------------------------*/
+
+.four-oh-four {
+    position: relative;
+    font-size: 10rem;
+    font-family: 'Abril Fatface', serif;
+    letter-spacing: -.555555556rem;
+    line-height: 1.7;
+}
+
+    .four-oh-four__oh {
+        color: #fff;
+        position: relative;
+        z-index: 10;
+    }
+
+    .four-oh-four__oh:before {
+        content: '';
+        position: absolute;
+        background-color: #222;
+        height: 6.722222222rem;
+        width: 2rem;
+        top: 3.69rem;
+        left: 2.35rem;
+        border-radius: 35%;
+    }
+
+.not-page {
+    font-size: 1.5rem;
+    font-weight: 200;
+}
 
 
 
