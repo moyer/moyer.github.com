@@ -64,6 +64,7 @@ h3,.gamma{font-size:1.7rem;line-height:1.3;}
 h4,.delta{font-size:1.7rem;line-height:1.3;}
 h5,.epsilon{font-size:1rem;line-height:1.5;}
 h6,.zeta{font-size:.8rem;line-height:1.5;}
+blockquote{padding:0 1.7rem;font-weight:200;}
 .container{margin:0 auto;width:35rem;max-width:100%;padding:3.4rem .85rem;}
 .container-center{display:table;width:100%;height:100%;}
 .container-center__content{display:table-cell;text-align:center;vertical-align:middle;position:relative;}
