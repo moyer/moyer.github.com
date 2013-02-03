@@ -78,7 +78,11 @@ blockquote{padding:0 1.7rem;font-weight:200;}
 @media only screen and (min-width:630px){.portfolio__img{width:33%;border:.425rem solid #111;}}.about{position:relative;}
 .about__img{width:100%;max-width:100%;}
 .about__body{margin:0 auto;width:35rem;max-width:100%;padding:3.4rem .85rem;}
-@media only screen and (min-width:1000px){.about__body{position:absolute;top:0;left:50%;right:0;bottom:0;margin:0;width:auto;padding:3.4rem;background-color:rgba(255, 255, 255, 0.9);}}.hero{font-size:.5rem;position:relative;width:35em;min-height:18em;margin:0 auto;top:-1.7em;}
+@media only screen and (min-width:1000px){.about__body{position:absolute;top:0;left:50%;right:0;bottom:0;margin:0;width:auto;padding:3.4rem;background-color:rgba(255, 255, 255, 0.9);}}.article-list{list-style:none;}
+.article-list li{padding:.85rem 0;border-bottom:1px solid #eee;margin-bottom:1.7rem;*zoom:1;}.article-list li:before,.article-list li:after{content:" ";display:table;}
+.article-list li:after{clear:both;}
+.article-list__title{font-weight:200;font-size:2.8rem;line-height:1.2;}
+.hero{font-size:.5rem;position:relative;width:35em;min-height:18em;margin:0 auto;top:-1.7em;}
 @media only screen and (min-width:630px){.hero{font-size:1rem;}}[class*=hero__]{display:block;line-height:1;position:absolute;}
 .hero__willmoyer{font-weight:200;font-size:4em;top:.208333333em;left:.041666667em;}
 .hero__isa{font-weight:200;font-size:2em;top:2.222222222em;left:.352941176em;}

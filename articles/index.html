@@ -1,0 +1,17 @@
+---
+layout: default
+title: Articles
+---
+
+<div class="container">
+	<ul class="article-list">
+		{% for post in site.posts %}
+		<li>
+			<div class="article-list__title">
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			</div>
+			<div class="zeta">{{ post.date | date: "%B %e, %Y" }}</div>
+		</li>
+		{% endfor %}
+	</ul>
+</div>
