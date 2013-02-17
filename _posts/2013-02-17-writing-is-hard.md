@@ -6,7 +6,7 @@ image: /assets/2013-02-17-writing-is-hard.png
 ---
 
 
-<img src="/assets/2013-02-17-writing-is-hard.svg" alt="">
+<img src="/assets/2013-02-17-writing-is-hard.png" alt="">
 
 
 I struggle a lot with writing. Articles, reviews, and essays are okay. They're not *easy*, and I end up publishing very few, but they're not an impossible struggle. Fiction, on the other hand, is.
