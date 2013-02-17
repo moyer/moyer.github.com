@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: post-no-title
 title: Writing Is Hard
 date: 2013-02-17
+image: /assets/2013-02-17-writing-is-hard.png
 ---
+
+
+<img src="/assets/2013-02-17-writing-is-hard.svg" alt="">
+
 
 I struggle a lot with writing. Articles, reviews, and essays are okay. They're not *easy*, and I end up publishing very few, but they're not an impossible struggle. Fiction, on the other hand, is.
 
@@ -36,7 +41,7 @@ I had a lot of the same hang-ups about design that I still have about writing. I
 
 This is what would happen: I would create something, then I would look at it and say to myself, "Hmm, this isn't bad. It was really fun and you learned a lot. You should keep doing this. If you kept coding webpages I bet you'd be awesome." And then I'd let six months go by without writing another line of HTML or opening an image editor.
 
-Except every time that I completed that loop, I would be more and more frustrated. I would feel angry at myself because I hadn't improved much, that I had to re-learn things I'd learned previously, that I couldn't make myself work at it consistently. I'd pledge to do better. Then I'd let months go by again. Rinse, repeat.
+Every time that I completed that loop, I would be more and more frustrated. I would feel angry at myself because I hadn't improved much, that I had to re-learn things I'd learned previously, that I couldn't make myself work at it consistently. I'd pledge to do better. Then I'd let months go by again. Rinse, repeat.
 
 "You've been doing this randomly, on and off, for the past two years. If you would have just done it consistently you would be great by now. But instead you're two years in and you're still stuck re-learning shit you used to know."
 
