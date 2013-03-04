@@ -4,8 +4,8 @@ title: One Second From Thirty Days
 date: 2013-03-04
 ---
 <div class="margin-b">
-	<figure class="img-wide">
-		<iframe class="big-box-shadow" width="950" height="534" src="http://www.youtube.com/embed/SnLXKCZZXBY?vq=hd720" frameborder="0" allowfullscreen></iframe>
+	<figure class="img-wide big-box-shadow">
+		<iframe width="950" height="534" src="http://www.youtube.com/embed/SnLXKCZZXBY?vq=hd720" frameborder="0" allowfullscreen></iframe>
 		<a href="#" class="js-btn" style="position:absolute;top:0;"><img class="js-video-mask" src="/assets/2013-03-04-one-second-thirty-days.jpg"></a>
 	</figure>
 </div>
