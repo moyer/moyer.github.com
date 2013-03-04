@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview&colon; Living and Working Abroad
+title: Interview&colon; Living &amp; Working Abroad
 date: 2013-02-25
 ---
 
