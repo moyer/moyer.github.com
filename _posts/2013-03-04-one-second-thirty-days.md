@@ -10,7 +10,7 @@ date: 2013-03-04
 	</figure>
 </div>
 
-This is a video featuring one second from thirty recent days of my life. I was inspired by a friend's Facebook post and Cesar Kuriyama's [One Second Everyday](http://1secondeveryday.com/) project. The idea is to record some video each day and periodically edit together compilations of single seconds. You'll end up with about 4 minutes of video for a year.
+This is a video (click the image above) featuring one second from thirty recent days of my life. I was inspired by a friend's Facebook post and Cesar Kuriyama's [One Second Everyday](http://1secondeveryday.com/) project. The idea is to record some video each day and periodically edit together compilations of single seconds. You'll end up with about 4 minutes of video for a year.
 
 I'm really bad at remembering specific days. If there's a big event or something important happens, there's a good chance I'll remember. More typical woke-up-got-breakfast-did-work-watched-TV-hung-out-with-friends-went-to-bed days, those I rarely remember.
 
