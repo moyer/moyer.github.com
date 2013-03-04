@@ -504,12 +504,28 @@ a:hover {
 
 
 /*------------------------------------*\
-    $IMAGES
+    $IMAGES AND VIDEO
 \*------------------------------------*/
 
-img {
+img, object, iframe, audio, video, canvas {
     max-width: 100%;
 }
+
+
+/* Big images for big screens */
+.img-wide {
+    position: relative;
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 1000px) {
+    .img-wide {
+        max-width: none; 
+        width: 950/18rem;
+        margin-left: -175/18rem;
+    }
+}
+
 
 
 /*------------------------------------*\
@@ -660,6 +676,15 @@ blockquote {
     }
 
 
+/*------------------------------------*\
+    $EFFECTS
+\*------------------------------------*/
+
+.big-box-shadow {
+    -webkit-box-shadow: 0 10/18rem 50/18rem rgba(0,0,0,.5);
+       -moz-box-shadow: 0 10/18rem 50/18rem rgba(0,0,0,.5);
+            box-shadow: 0 10/18rem 50/18rem rgba(0,0,0,.5);
+}
 
 
 
