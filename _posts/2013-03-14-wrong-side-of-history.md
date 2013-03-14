@@ -70,6 +70,6 @@ Attempting to extract yourself from the present, with all its biases, is a noble
 
 It's valuable to set those things aside -- as much as we can -- and imagine what people without our biases would believe.
 
-What will people in the future -- who don't have any emotional attachment to America or its presidents -- think about the US military? What will people in the future -- who weren't raised in a Christian household -- think about gay marriage? What will people in the future think about how we treat our environment? Or how we treat our children? Or how we run our societies?
+What will people in the future -- who don't have any emotional attachment to America or its leaders -- think about the US military? What will people in the future -- who weren't raised in a Christian household -- think about gay marriage? What will people in the future think about how we treat our environment? Or how we treat our children? Or how we run our societies?
 
 I think the "wrong side of history" argument's greatest value may be as a tool to help us examine and eliminate our biases.
