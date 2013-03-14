@@ -1,5 +1,8 @@
-  
-# The Wrong Side Of History
+---
+layout: post-no-title
+title: The Wrong Side Of History
+date: 2013-03-14
+---
 
 I've been hearing the phrase "the wrong side of history" more and more recently. Those [against gay marriage](https://twitter.com/travyyb/status/309781528156721152) are on the wrong side of history. The [new Pope](https://twitter.com/colm_ryan/status/282201858133594112) is on the wrong side of history. Obama is on the wrong side of history. Conservatives are on the wrong side of history.
 
@@ -58,7 +61,7 @@ There also might be an aspect of vanity to this. I know that's at least partiall
 
 ## Is the "wrong side of history" the right argument?
 
-Well, I don't think you can use it as a proof of any specific position. What the future will think, what the past already thought, and what we currently think are no measure of truth. You can certainly identify trends and track the consequences and outcomes of certain beliefs, which can bolster an existing proof.
+Well, I don't think you can use it as a proof of any specific position. What the future will think, what the past already thought, and what we currently think are no measure of truth. You can certainly identify trends and track the consequences and outcomes of certain beliefs, which can bolster an existing proof. But as a standalone argument, it's pretty empty.
 
 I rarely see this argument used alone anyway. It is almost always accompanied by a separate explanation of why the position is right or moral or practical. You would be on shaky ground to do otherwise.
 
