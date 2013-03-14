@@ -1,12 +1,12 @@
 ---
-layout: post-no-title
-title: The Wrong Side Of History
+layout: post
+title: The Wrong Side of History
 date: 2013-03-14
 ---
 
 I've been hearing the phrase "the wrong side of history" more and more recently. Those [against gay marriage](https://twitter.com/travyyb/status/309781528156721152) are on the wrong side of history. The [new Pope](https://twitter.com/colm_ryan/status/282201858133594112) is on the wrong side of history. Obama is on the wrong side of history. Conservatives are on the wrong side of history.
 
-TKIMAGE
+<img src="/assets/2013-03-14-wrong-side-of-history.jpg" alt="" class="img-wide big-box-shadow">
 
 I find this argument both bizarre and compelling. It works. It has worked on me, and I've used it on others. But why is it so effective? It's a strange argument when you think about it. Accusing someone of being on the wrong side of history is essentially saying "people in the future will disagree with you."
 
@@ -30,8 +30,7 @@ That view of human history is a distinctly progressive one. But conservatives al
 
 A typical conservative would argue strongly against the idea that we're better than our ancestors. "Traditional values are what we need," they would say. "An emphasis on spirituality and the family is what modern society needs, not a headlong rush toward changing everything and everyone."
 
-In this [column]
-(http://communities.washingtontimes.com/neighborhood/biblical-politics/2013/mar/10/obamas-support-same-sex-marriage-wrong-side-histor/), the author makes the argument that President Obama is on the wrong side of history by supporting gay marriage. People in the future will recognize that "marriage between a man and a woman is the best for raising and nurturing of the next generation and building a solid foundation for civilization." This isn't because he thinks people in the past were ignorant and wrong; it's precisely the opposite. Our ancestors were right. The traditional understanding of marriage is the wise one, and our present dabbling in non-traditional marriage is just a temporary deviation from what has always been true. This is something that "every nation, culture and major religious belief system throughout human history has understood" and eventually, we'll get back to the same conclusions.
+In this [column](http://communities.washingtontimes.com/neighborhood/biblical-politics/2013/mar/10/obamas-support-same-sex-marriage-wrong-side-histor/), the author makes the argument that President Obama is on the wrong side of history by supporting gay marriage. People in the future will recognize that "marriage between a man and a woman is the best for raising and nurturing of the next generation and building a solid foundation for civilization." This isn't because he thinks people in the past were ignorant and wrong; it's precisely the opposite. Our ancestors were right. The traditional understanding of marriage is the wise one, and our present dabbling in non-traditional marriage is just a temporary deviation from what has always been true. This is something that "every nation, culture and major religious belief system throughout human history has understood" and eventually, we'll get back to the same conclusions.
 
 You can look at the past and think that humans have been wrong consistently and that eventually the future will prove present-day people wrong, or you can look at the past and think human beings have pretty consistently been right and eventually the future will recognize that and get us back on track.
 
