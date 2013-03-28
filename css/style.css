@@ -76,6 +76,8 @@ blockquote{padding:0 1.7rem;font-weight:200;}
 .footer a:hover{color:#fff;}
 .footer__about{float:left;width:50%;}
 .big-box-shadow{-webkit-box-shadow:0 0.5555555555555556rem 2.7777777777777777rem rgba(0, 0, 0, 0.5);-moz-box-shadow:0 0.5555555555555556rem 2.7777777777777777rem rgba(0, 0, 0, 0.5);box-shadow:0 0.5555555555555556rem 2.7777777777777777rem rgba(0, 0, 0, 0.5);}
+.portfolio{*zoom:1;}.portfolio:before,.portfolio:after{content:" ";display:table;}
+.portfolio:after{clear:both;}
 .portfolio__img{float:left;width:100%;border:.425rem solid #111;}
 @media only screen and (min-width:630px){.portfolio__img{width:33%;border:.425rem solid #111;}}.about{position:relative;}
 .about__img{width:100%;max-width:100%;}
