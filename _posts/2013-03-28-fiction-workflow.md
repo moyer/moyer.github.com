@@ -23,7 +23,7 @@ I can't say whether or not this process will work for you, but it certainly does
 13. Find an article about motivation.
 14. Post it on Facebook and Twitter.
 15. Take my shirt off. "Why is it so hot in here?"
-16. I need a drink. Go to 7-11 and by an assortment of drinks.
+16. I need a drink. Go to 7-11 and buy an assortment of drinks.
 17. Scold myself for wasting so much time when I could have been writing.
 18. Promise myself that when I get back from 7-11, it's serious writing time.
 19. Sit down at computer and stare at blank document.
