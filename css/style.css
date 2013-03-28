@@ -71,7 +71,7 @@ blockquote{padding:0 1.7rem;font-weight:200;}
 .container-center{display:table;width:100%;height:100%;}
 .container-center__content{display:table-cell;text-align:center;vertical-align:middle;position:relative;}
 .title{color:#fff;background-color:#111;}
-.footer{background-color:#111;color:#666;padding:1.7rem;}
+.footer{background-color:#111;color:#666;padding:1.7rem 0;}
 .footer a{border:none;}
 .footer a:hover{color:#fff;}
 .footer__about{float:left;width:50%;}
