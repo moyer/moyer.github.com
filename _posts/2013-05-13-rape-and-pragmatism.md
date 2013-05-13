@@ -26,7 +26,7 @@ And another:
 
 >Western girls come over here, dress skimply, get pissed and/or drugged and then get into problems. I'm certainly not excusing the scum that abuse them, but, common sense and a little awareness would avert the problem.
 
-Comments like this draw ire because of the apparent victim-blaming, the focus on the victims' behavior as if they're the ones at fault for being attacked.
+Comments like this draw ire because of the apparent victim blaming, the focus on the victims' behavior as if they're the ones at fault for being attacked.
 
 I don't think these commenters truly believe that sexual assault or rape is permissible. They think they are being practical and pragmatic. *Yes, we all agree that rape is wrong, but if women took some sensible steps like dressing more "appropriately" or only traveling in groups, the number of rapes and sexual assaults would decrease.*
 
