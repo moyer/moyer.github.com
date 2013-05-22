@@ -48,7 +48,7 @@ Gruber quotes an [Erik Spiekermann tweet](https://twitter.com/espiekermann/statu
 
 He then uses this for further justification that Retina is responsible for the trend away from skeuomorphism:
 
-> Spiekermann makes an excellent point. Fonts are emblematic of the changes in design enabled by higher resolution displays. …What looked best remained fonts that were optimized for the screen, rather than print. Fonts like Lucida Grande, Verdana, and Georgia. Those fonts look best-of-breed on sub-retina resolution color displays, but look cheap when used in high resolution print. (Ikea, I’m looking in your direction.) On retina displays there’s simply no reason not to use any font you want. All fonts render nicely on retina displays.
+> Spiekermann makes an excellent point. Fonts are emblematic of the changes in design enabled by higher resolution displays. …What looked best [were] fonts that were optimized for the screen, rather than print. Fonts like Lucida Grande, Verdana, and Georgia. Those fonts look best-of-breed on sub-retina resolution color displays, but look cheap when used in high resolution print. (Ikea, I’m looking in your direction.) On retina displays there’s simply no reason not to use any font you want. All fonts render nicely on retina displays.
 
 But this reasoning doesn't actually support Gruber's theory.
 
