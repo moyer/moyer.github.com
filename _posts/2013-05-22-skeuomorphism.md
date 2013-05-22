@@ -4,6 +4,8 @@ title: Skeuomorphism
 date: 2013-05-22
 ---
 
+TRYING TO FORCE A REBUILD
+
 <img class="img-wide margin-b margin-t" src="/assets/2013-05-22-skeuomorphism-title.png">
 
 Skeuomorphism in interfaces has seemingly reached its apex. The tide has now turned, and where it will take us has been a major topic of discussion among designers and tech bloggers.
