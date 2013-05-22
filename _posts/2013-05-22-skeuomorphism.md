@@ -94,4 +94,4 @@ What makes something popular is notoriously difficult to determine. But to say t
 
 It is equally unwise to suggest that we have somehow reached the peak of interface design. Just like fashion, architecture, industrial design, and everything else, the current trend will move on. The pendulum will swing back toward strong visual metaphors or maybe an entirely new direction.
 
-The next trend, like this one, will be influenced by technology, necessity, and taste. And there will be pioneers to lead the way. It will likely be impossible to predict. If you want to see the future of software UI design, you'll have to invent it.
+The next trend, like this one, will be influenced by technology, necessity, and taste. And there will be pioneers to lead the way. It will likely be impossible to predict. So, if you want to see the future of software UI design, you'll have to invent it.
