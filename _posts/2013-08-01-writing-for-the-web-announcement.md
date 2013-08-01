@@ -24,5 +24,5 @@ If you're interested in the book, you can use the sign up form below or on [Writ
 
 If you're a writer who feels stuck with the frustrations of Microsoft Word and emailing documents, this book will change the way you write.
 
-<form action="https://tinyletter.com/willmoyer" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/willmoyer', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width: 100%; text-align: center; padding: .425em 0" name="email" id="tlemail" placeholder="email@example.com" /></p><input type="hidden" value="1" name="embed"/><input style="background: #1986D9; font-weight: bold; color: #fff; border: none; width: 100%; padding: .85em 0" type="submit" value="EMAIL ME WHEN IT’S OUT" /></form>
+<form action="https://tinyletter.com/willmoyer" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/willmoyer', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width: 100%; text-align: center; padding: .425em 0" name="email" id="tlemail" placeholder="email@example.com" /></p><input type="hidden" value="1" name="embed"/><input class="delta" style="background: #1986D9; font-weight: bold; color: #fff; border: none; width: 100%; padding: .85em 0" type="submit" value="EMAIL ME WHEN IT’S OUT" /></form>
 
