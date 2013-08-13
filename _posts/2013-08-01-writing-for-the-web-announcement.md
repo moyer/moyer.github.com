@@ -12,7 +12,7 @@ I'm a writer myself, and I've been working with writers for years. During univer
 
 If you're a writer, this might be a surprise to you, but developers have way better tools for writing than you do. Way, *way* better. Most writers I meet are still stuck in the old ways of writing. They're stuck using word processors — usually Microsoft Word — which are better suited for the print age than for the digital age. They're stuck emailing attachments to their editors and clients.
 
-What kind of versioning systems do most writers use? It's either a folder full of files named `article_08_2013_Jakes_edit_2_FINAL.doc` or Word's built-in Track Changes function. Track Changes -- without hyperbole -- is a nightmare. And ever escalating duplicate files with cryptic naming conventions (`second_draft_V3_FINAL.doc`? what?) might be even worse. But writers don't know what else to do.
+What kind of versioning systems do most writers use? It's either a folder full of files named `article_08_2013_Jakes_edit_2_FINAL.doc` or Word's built-in Track Changes function. Track Changes -- without hyperbole -- is a nightmare. And ever escalating duplicate files with [cryptic naming](http://www.phdcomics.com/comics/archive.php?comicid=1531) conventions (`second_draft_V3_FINAL.doc`? what?) might be even worse. But writers don't know what else to do.
 
 At some point in the 1990's, Microsoft Word became the defacto for standard for writing. In the minds of many, it's still the only to way to write. There are alternatives such as Google Docs or Apple's Pages, but they still follow the same basic word processor formula. The *real* alternatives seem too technical or too obscure for most people to consider. But they're not.
 
