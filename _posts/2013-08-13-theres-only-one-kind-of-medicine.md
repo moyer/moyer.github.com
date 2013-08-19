@@ -5,6 +5,8 @@ date: 2013-08-13
 image: 2013-08-13-theres-only-one-kind-of-medicine-cover.jpg
 ---
 
+*This article originally appeared on [Medium](https://medium.com/editors-picks/64a37ea9d0ee).*
+
 I’ve spent the last three years in Asia, mostly in China and Thailand. During
 that time, I’ve met Westerners, many working for NGOs and charities, who
 defend cultural medicinal practices.
