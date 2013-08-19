@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: post-cover
 title: Writing For The Web
 date: 2013-08-01
+image: 2013-08-01-writing-for-the-web-announcement-book-mock.jpg
 ---
 
 I wrote a book. It's called [*Writing For The Web*](http://writingfortheweb.co). It's a short guide for bloggers, journalists, copywriters, authors, and anybody else who writes.
-
-<a href="http://writingfortheweb.co"><img class="img-wide big-box-shadow" src="/assets/2013-08-01-writing-for-the-web-announcement-book-mock.jpg" alt="Writing For The Web"></a>
 
 I'm a writer myself, and I've been working with writers for years. During university, I was editor-in-chief of a student run magazine. After graduating, I worked for a journalism non-profit for a year and a half.  And while freelancing in Asia, I've been working closely with bloggers, copywriters, and authors. At the same time that I've been surrounded with writers, I've also been surrounded by developers.
 
