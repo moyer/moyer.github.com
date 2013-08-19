@@ -528,6 +528,7 @@ img, object, iframe, audio, video, canvas {
 
 
 
+
 /*------------------------------------*\
     $NAVIGATION
 \*------------------------------------*/
@@ -670,6 +671,54 @@ ul, ol {
     color: #fff;
     background-color: #111;
 }
+
+/* Posts With A Cover Image */
+
+.cover {
+    position: relative;
+    height: 0;
+    width: 100%;
+    padding-bottom: 40%;
+    margin-bottom: -1.7rem;
+    overflow: hidden;
+}
+
+@media only screen and (min-width: 1280px) {
+    .cover {
+        padding-bottom: 512px;
+    }
+}
+    .cover__img {
+        position: absolute;
+        z-index: 0;
+    }
+
+    .cover__title {
+        display: none;
+        position: absolute;
+        bottom: 0;
+        margin: 0;
+        width: 100%;
+        color: #fff;
+        text-align: center;
+        padding: 0 10%;
+        padding-bottom: .85rem;
+        text-shadow: 0 1px 2px rgba(0,0,0,.5);
+        
+          background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,.6))); /* Chrome, Safari 4+ */
+          background-image: -webkit-linear-gradient(top, transparent, rgba(0,0,0,.6)); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
+          background-image:    -moz-linear-gradient(top, transparent, rgba(0,0,0,.6)); /* Firefox 3.6-15 */
+          background-image:      -o-linear-gradient(top, transparent, rgba(0,0,0,.6)); /* Opera 11.10-12.00 */
+          background-image:         linear-gradient(to bottom, transparent, rgba(0,0,0,.6)); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+    }
+
+    @media only screen and (min-width: 630px) {
+        .cover__title {
+            display: block;
+        }
+    }
+
+/* Site Footer */
 
 .footer {
     background-color: #111;

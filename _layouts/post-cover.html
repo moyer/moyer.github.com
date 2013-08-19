@@ -1,0 +1,16 @@
+---
+layout: default
+---		
+		<div class="cover">
+			<img class="cover__img" src="/assets/{{ page.image }}" alt="{{ page.title }}">
+			<h1 class="cover__title">{{ page.title }}</h1>
+		</div>
+
+		<div class="container">
+			<div class="margin-b">
+			<h1 class="desk-hide">{{ page.title }}</h1>
+			{{ content }}
+			</div>	
+			<p class="zeta text-center gray"><em>Published on {{ page.date | date: "%B %e, %Y" }}</em></p>
+		</div>
+
