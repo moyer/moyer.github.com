@@ -83,7 +83,7 @@ ul,ol{padding-left:1rem}
 .portfolio{*zoom:1;}.portfolio:before,.portfolio:after{content:" ";display:table;}
 .portfolio:after{clear:both}
 .portfolio__img{float:left;width:100%;border:.425rem solid #111}
-@media only screen and (min-width:630px){.portfolio__img{width:33%;border:.425rem solid #111}}.about{position:relative}
+@media only screen and (min-width:630px){.portfolio__img{width:33.33333%;border:.425rem solid #111}}.about{position:relative}
 .about__img{width:100%;max-width:100%}
 .about__body{margin:0 auto;width:35rem;max-width:100%;padding:3.4rem .85rem}
 @media only screen and (min-width:1000px){.about__body{position:absolute;top:0;left:50%;right:0;bottom:0;margin:0;width:auto;padding:3.4rem;background-color:rgba(255,255,255,0.9)}}.article-list{list-style:none}
