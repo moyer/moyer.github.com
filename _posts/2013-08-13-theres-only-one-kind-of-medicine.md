@@ -3,6 +3,7 @@ layout: post-cover
 title: There’s Only One Kind Of Medicine
 date: 2013-08-13
 image: 2013-08-13-theres-only-one-kind-of-medicine-cover.jpg
+caption: Chinese Doctor, courtesy of Gary Chang
 ---
 
 *This article originally appeared on [Medium](https://medium.com/editors-picks/64a37ea9d0ee).*
