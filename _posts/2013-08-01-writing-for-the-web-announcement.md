@@ -3,6 +3,7 @@ layout: post-cover
 title: Writing For The Web
 date: 2013-08-01
 image: 2013-08-01-writing-for-the-web-announcement-book-mock.jpg
+caption: Writing For The Web
 ---
 
 I wrote a book. It's called [*Writing For The Web*](http://writingfortheweb.co). It's a short guide for bloggers, journalists, copywriters, authors, and anybody else who writes.
@@ -19,11 +20,10 @@ There are amazing alternatives to using Microsoft Word. There are tools that mak
 
 *Writing For The Web* introduces these tools to writers. It explains the concepts behind them and gives examples of how you can use them to build robust workflows that perfectly fit your needs. Do you need to be a developer? Do you need to know how to code or have a technical background? Not at all. This book is all about introducing writers to the tools they deserve, tools that will make them far happier and more productive.
 
-The book hasn't been released yet. I'm still prepping it for sale on Amazon and it'll be available on Kindle soon. And, depending on the response, print versions may follow.
+The book is for sale on Amazon in Kindle format. Depending on the response, print versions may follow.
 
-If you're interested in the book, you can use the sign up form below or on [WritingForTheWeb.co](http://writingfortheweb.co/) and you'll be notified when the book is released.
+If you're interested in the book, you can use the button below or on [WritingForTheWeb.co](http://writingfortheweb.co/) to purchase it from Amazon.
 
 If you're a writer who feels stuck with the frustrations of Microsoft Word and emailing documents, this book will change the way you write.
 
-<form action="https://tinyletter.com/willmoyer" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/willmoyer', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width: 100%; text-align: center; padding: .425em 0" name="email" id="tlemail" placeholder="email@example.com" /></p><input type="hidden" value="1" name="embed"/><input class="delta" style="background: #1986D9; font-weight: bold; color: #fff; border: none; width: 100%; padding: .85em 0" type="submit" value="EMAIL ME WHEN IT’S OUT" /></form>
-
+<a class="delta" style="background: #1986D9; display: block; text-align:center; font-weight: bold; color: #fff; border: none; width: 100%; padding: .85em 0" href="http://www.amazon.com/Writing-For-The-Web-ebook/dp/B00ELAG856">BUY THE BOOK</a>
