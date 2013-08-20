@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: post-cover
 title: Rape & Pragmatism
 date: 2013-05-13
+image: 2013-05-13-rape-and-pragmatism-cover.jpg
+caption: Thai tuk-tuk, courtesy of Alan Haverty
 ---
 
 Last week, my friend Casey Hynes wrote an [article](http://asiancorrespondent.com/107011/bali-rape-highlights-ongoing-threat-to-female-travelers-in-asia/) for Asian Correspondent about the dangers facing women travelers. She focused on the numerous high-profile assaults that have occurred in India, Bali, and Thailand.
