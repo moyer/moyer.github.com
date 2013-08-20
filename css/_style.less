@@ -960,9 +960,17 @@ ul, ol {
  * Hide for certain viewport sizes
  */
 
+.desk-show {
+    display: none;
+}
+
 @media only screen and (min-width: 630px) {
     .desk-hide {
         display: none;
+    }
+
+    .desk-show {
+        display: block;
     }
 }
 
