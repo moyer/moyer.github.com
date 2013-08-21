@@ -3,16 +3,32 @@ layout: default
 title: Articles
 ---
 
-<div class="container">
+<div>
 	<ul class="article-list">
 		{% for post in site.posts %}
-		<li>
-			<a href="{{ post.url }}">
-			<div class="article-list__title">
-				{{ post.title }}
-			</div>
-			<div class="zeta">{{ post.date | date: "%B %e, %Y" }}</div>
-			</a>
+			{% if post.image != null %}
+			<li class="article-list__cover">
+				<a href="{{ post.url }}">
+					<img class="article-list__img" src="/assets/{{ post.image }}" alt="{{ post.title }}">
+					<div class="article-list__overlay container container--tight">
+						<div class="article-list__title">
+							{{ post.title }}
+						</div>
+						<div class="zeta">{{ post.date | date: "%B %e, %Y" }}</div>
+					</div><!-- end container -->
+
+				</a>
+			{% else %}
+			<li class="article-list__text">
+				<a href="{{ post.url }}">
+					<div class="container container--tight">
+						<div class="article-list__title">
+							{{ post.title }}
+						</div>
+						<div class="zeta">{{ post.date | date: "%B %e, %Y" }}</div>
+					</div><!-- end container -->
+				</a>
+			{% endif %}
 		</li>
 		{% endfor %}
 	</ul>
