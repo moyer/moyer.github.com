@@ -493,6 +493,8 @@ textarea {
 a, a:visited {
     color: #999;
     text-decoration: none;
+
+    .transition;
 }
 
 a:hover {
@@ -757,6 +759,13 @@ ul, ol {
             box-shadow: 0 10/18rem 50/18rem rgba(0,0,0,.5);
 }
 
+.transition {
+  -webkit-transition: all 0.3s ease-out;  /* Chrome 1-25, Safari 3.2+ */
+     -moz-transition: all 0.3s ease-out;  /* Firefox 4-15 */
+       -o-transition: all 0.3s ease-out;  /* Opera 10.50–12.00 */
+          transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
+}
+
 
 
 /*------------------------------------*\
@@ -864,6 +873,12 @@ ul, ol {
         min-height: 100%;
         position: absolute;
         opacity: .10;
+        
+        .transition;
+    }
+
+    .article-list__cover a:hover .article-list__img, .article-list__cover a:active .article-list__img {
+        opacity: .2;
     }
 
     @media only screen and (min-width: 630px) {
