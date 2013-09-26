@@ -110,6 +110,8 @@ ul,ol{padding-left:1rem}
 .four-oh-four__oh{color:#fff;position:relative;z-index:10}
 .four-oh-four__oh:before{content:'';position:absolute;background-color:#222;height:6.722222222rem;width:2rem;top:3.69rem;left:2.35rem;border-radius:35%}
 .not-page{font-size:1.5rem;font-weight:200}
+.great-wall-of-gifs{background-color:#111;-webkit-column-count:3;-moz-column-count:3;-o-column-count:3;-ms-column-count:3;column-count:3;-webkit-column-gap:.425rem;-moz-column-gap:.425rem;-o-column-gap:.425rem;-ms-column-gap:.425rem;column-gap:.425rem}
+.great-wall-of-gifs img{margin-bottom:.425rem}
 .desk-show{display:none !important;visibility:hidden}
 @media only screen and (min-width:630px){.desk-hide{display:none !important;visibility:hidden} .desk-show{display:block}}.center{display:block;margin-right:auto;margin-left:auto}
 .full-width{width:100%}
