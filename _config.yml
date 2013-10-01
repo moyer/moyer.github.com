@@ -1,5 +1,5 @@
 auto: true
-permalink: /:title
+permalink: /:categories/:title
 markdown: rdiscount
 rdiscount:
   extensions: [smart]

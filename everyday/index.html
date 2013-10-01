@@ -1,0 +1,22 @@
+---
+layout: default
+title: Everyday
+---
+
+<div class="container">
+	<ul class="everyday-list">
+		{% for post in site.posts %}{% if post.categories contains 'everyday' %}
+			<li class="margin-b">
+					<a href="{{ post.url }}">
+						<div class="everyday-list__title">
+							{{ post.title }}
+						</div>
+						<div class="zeta margin-bs">{{ post.date | date: "%B %e, %Y" }}</div>
+					</a>
+					<div>
+						{{ post.content }}
+					</div>
+			</li>
+		{% endif %}{% endfor %}
+	</ul>
+</div>

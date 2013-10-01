@@ -5,7 +5,7 @@ title: Articles
 
 <div>
 	<ul class="article-list">
-		{% for post in site.posts %}
+		{% for post in site.posts %}{% unless post.categories contains 'everyday' %}
 			{% if post.image != null %}
 			<li class="article-list__cover">
 				<a href="{{ post.url }}">
@@ -16,7 +16,6 @@ title: Articles
 						</div>
 						<div class="zeta">{{ post.date | date: "%B %e, %Y" }}</div>
 					</div><!-- end container -->
-
 				</a>
 			{% else %}
 			<li class="article-list__text">
@@ -29,7 +28,7 @@ title: Articles
 					</div><!-- end container -->
 				</a>
 			{% endif %}
-		</li>
-		{% endfor %}
+			</li>
+		{% endunless %}{% endfor %}
 	</ul>
 </div>
