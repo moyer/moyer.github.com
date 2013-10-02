@@ -1,7 +1,7 @@
 ---
 layout: everyday-text
 title: About Everyday
-date: 2013-10-01
+date: 2013-09-30
 ---
 
 Everyday is a blog where I post something every single day. It's inspired by similar projects like [Mike Winkelmann's Everydays](http://www.beeple-crap.com/everydays.php), [Joshua DuChene's Create Every Day](http://www.skeeterskinwalker.com/create-every-day/), and [Cesar Kuriyama's One Second Every Day](http://www.ted.com/talks/cesar_kuriyama_one_second_every_day.html). 
