@@ -18,7 +18,7 @@ I remember games like [T2: The Arcade Game](http://cl.ly/1S1z1s1h3y2E) which was
 
 When I first started playing games online, I discovered a whole new level of difficulty: other players. This wasn't like playing your friends, this was something else entirely. I was somewhere around 13 or 14 years old, playing the [Firearms](http://cl.ly/2g0e2O353H3d) mod for Half-Life, and getting my ass kicked by strangers online. Strangers who I thought *must* be cheating. *Nobody can be that good, right?*
 
-I would frequent the same servers over and over again and see the same players dominating the leaderboards. How did they do it? I don't know if I consciously thought about, but on some level I just assumed it was natural talent. Some people are just born with better reaction times, better accuracy, better multitasking skills.
+I would frequent the same servers over and over again and see the same players dominating the leaderboards. How did they do it? I don't know if I consciously thought abou it, but on some level I just assumed it was natural talent. Some people are just born with better reaction times, better accuracy, better multitasking skills.
 
 I ended up downloading the necessary tools to run a Firearms server on my computer. There, in my private training ground which I populated with computer-controlled bots, I practiced. I learned all the levels, all the weapons, and I just played. A lot. And over time, when I'd rejoin the public servers, I started to rank better and better. Eventually, I became one of those players that was dominating everyone else.
 
