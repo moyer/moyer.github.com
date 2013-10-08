@@ -4,7 +4,7 @@ title: Quantity Over Quality Inspiration
 date: 2013-10-07
 ---
 
-In honor of Monday, here are two of my favorite videos for inspiring quantity over quality. It's hard to stop worrying about how your work isn't good enough and just produce more of it, but these videos help. They always remind me that the only to get to quality is *through* quantity.
+In honor of Monday, here are two of my favorite videos for inspiring quantity over quality. It's hard to stop worrying about how your work isn't good enough and just produce more of it, but these videos help. They always remind me that the only way to get to quality is *through* quantity.
 
 First, [Ira Glass on storytelling](http://www.youtube.com/watch?v=BI23U7U2aUY&feature=youtu.be):
 
