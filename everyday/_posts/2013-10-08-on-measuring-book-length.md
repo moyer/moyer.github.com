@@ -30,7 +30,7 @@ In 2011, you added "real" page numbers to Kindle books. This is almost worst tha
 
 The only solution is word count.
 
-It's not to late, Amazon. This is my official plea: *Please add word count to your Kindle books, devices, and apps.*
+It's not too late, Amazon. This is my official plea: *Please add word count to your Kindle books, devices, and apps.*
 
 
 
