@@ -4,7 +4,7 @@ title: Techanalogy
 date: 2013-10-10
 ---
 
-More humans should treat everything the way they treat technology. I don't mean the young-person obession with or the old-person fear of, I mean the average person's expectations. Our expectations of technology are vastly different than our expectations in other areas.
+More humans should treat everything the way they treat technology. I don't mean the young-person obsession with or the old-person fear of, I mean the average person's expectations. Our expectations of technology are vastly different than our expectations in other areas.
 
 Now, to be clear, I'm talking about what people commonly think of as "technology," which is electronics. New devices. Computers, phones, tablets, music players, and all of the software that goes with them. I'm not using the broader definition of technology, "applied knowledge", which basically covers everything humans do. (And another reason we should have more consistent expectations.)
 
