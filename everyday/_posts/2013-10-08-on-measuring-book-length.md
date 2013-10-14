@@ -18,11 +18,19 @@ Maybe publishers recognize this and also use word count internally, but the publ
 
 Why am I telling you this, Amazon? Because you had a chance to change it. The way people read books is changing and you're at the leading edge of that transition. You could have swung the public toward measuring by word count. So why aren't Kindle books measured in words? Instead, they're measured in dots, percentages, and "locations." Let's talk about all three.
 
-Dots. I honestly have no fucking clue what a Kindle dot is. I originally thought it was an absolute measurement, like one dot equals ten thousand words, but that's wrong. I've heard that it somehow relates to the number of chapters. Obviously, measuring chapters is even more arbitrary than measuring pages. I can't confirm that claim, though. I can't even confirm that longer books have more dots. But I think I get it: dots are a nice visual indicator for what percentage of a book is remaining. Fine.
+## Dots
 
-Percentage. In addition to the dots, Kindles display a specific percentage. I have no complaints about this measurement as long as it's coupled with something more absolute. Of course, it isn't. So you've read 50% of the book. How much was that? Who knows. Double it and you're done. At least it allows you to tell another person, "I'm 75% of the way through *[Writing For The Web](http://www.amazon.com/Writing-For-The-Web-ebook/dp/B00ELAG856)*." Which is way better than saying, "I've got one dot left and I'm on the edge of my seat."
+I honestly have no fucking clue what a Kindle dot is. I originally thought it was an absolute measurement, like one dot equals ten thousand words, but that's wrong. When I asked an Amazon rep they said, “At this time, we cannot determine the unit of a dot.” *At this time?* Okay. I've heard that it somehow relates to the number of chapters. Obviously, measuring chapters is even more arbitrary than measuring pages. I can't confirm that claim, though. I can't even confirm that longer books have more dots. Again, from an Amazon rep: “books with more contents and large number of pages may have longer dots. However, we don't have specific number of pages per dot.” *May?*
 
-Location, location, location. We finally have an absolute unit. What exactly *is* the measurement? The [speculation](http://www.quora.com/Kindle/What-does-one-Kindle-location-unit-represent) is that each location represents 128 bytes of data. Is that useful in any way at all? Well, yes. A location on one Kindle should match up perfectly with a location on another Kindle. In that respect, it's useful. But you can't use it to measure books in relation to printed or non-Kindle versions. And nobody is familiar with them. Saying that *Crime and Punishment* has 300000 locations is meaningless to most people.
+But I think I get it: dots are a nice visual indicator for what percentage of a book is remaining. Fine.
+
+## Percentage
+
+In addition to the dots, Kindles display a specific percentage. I have no complaints about this measurement as long as it's coupled with something more absolute. Of course, it isn't. So you've read 50% of the book. How much was that? Who knows. Double it and you're done. At least it allows you to tell another person, "I'm 75% of the way through *[Writing For The Web](http://www.amazon.com/Writing-For-The-Web-ebook/dp/B00ELAG856)*." Which is way better than saying, "I've got one dot left and I'm on the edge of my seat."
+
+## Location, Location, Location
+
+We finally have an absolute unit. What exactly *is* the measurement? The [speculation](http://www.quora.com/Kindle/What-does-one-Kindle-location-unit-represent) is that each location represents 128 bytes of data. Is that useful in any way at all? Well, yes. A location on one Kindle should match up perfectly with a location on another Kindle. In that respect, it's useful. But you can't use it to measure books in relation to printed or non-Kindle versions. And nobody is familiar with them. Saying that *Crime and Punishment* has 300000 locations is meaningless to most people.
 
 At some point you, Amazon, realized the problems with dots, percentages, and locations. You fixed this by adding a word count, an actual measurement of the text that is comparable across all books, editions, and devices. *Just kidding! You added a page count.*
 
