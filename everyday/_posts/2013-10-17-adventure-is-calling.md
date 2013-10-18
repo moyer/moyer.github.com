@@ -3,10 +3,11 @@ layout: everyday-text
 title: “Adventure Is Calling”
 date: 2013-10-17
 ---
-
+<div>
 <figure class="img-wide big-box-shadow">
-	<iframe src="http://player.vimeo.com/video/76820114" width="950" height="535" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>&nbsp;</iframe>
+	<iframe src="http://player.vimeo.com/video/76820114" width="950" height="535" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
+</div>
 
 <p><a href="http://vimeo.com/76820114">Adventure Is Calling</a> from <a href="http://vimeo.com/user7394380">Shane Black.</a></p>
 
