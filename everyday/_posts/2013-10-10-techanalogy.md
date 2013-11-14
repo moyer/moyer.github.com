@@ -58,7 +58,7 @@ Imagine how crazy it would be if I had to fill out an online form, print it, mai
 
 ## We Want The Impossible
 
-For the record, some of our expectations when it comes to technology might be a tad unreasonable. To some degree, we do want the impossible. But there are benefits to that unreason-ability. It puts pressure on the people solving the problems. It puts pressure on us, to do better, to not settle.
+For the record, some of our expectations when it comes to technology might be a tad unreasonable. To some degree, we do want the impossible. But there are benefits to that unreasonableness. It puts pressure on the people solving the problems. It puts pressure on us, to do better, to not settle.
 
 If only we weren't so used to settling when it comes to everything else.
 
