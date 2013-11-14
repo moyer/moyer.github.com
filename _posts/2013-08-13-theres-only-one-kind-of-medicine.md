@@ -13,7 +13,7 @@ that time, I’ve met Westerners, many working for NGOs and charities, who
 defend cultural medicinal practices.
 
 One friend of mine, who worked with Karen [hill
-tribes](http://en.wikipedia.org/wiki/Hill_tribe_(Thailand)), argued that their
+tribes](http://cl.ly/1r0A0U3l110G), argued that their
 use of raw eggs for treating burns was a perfectly acceptable and reasonable
 practice. Why? Because their medicine men have been doing it for generations.
 It’s traditional. Treating burns with egg appears to be a common folk remedy –
@@ -23,7 +23,7 @@ bacteria and open wounds.
 
 I’ve met American students taking five-year courses in traditional Chinese
 medicine at universities in Beijing, learning about acupuncture and
-[meridians](http://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)), which
+[meridians](http://cl.ly/2j3q3l1k3Y26), which
 are imaginary lines of energy running through the human body. In Thailand,
 there’s a thriving economy of workshops and courses for foreigners to study
 Reiki (palm healing), astrology,
@@ -37,8 +37,7 @@ English-speaking publications in major Asian cities run cutesy articles like
 case you’re wondering, traditional Chinese medicine suggests drinking hot tea
 to stay cool in the summer.)
 
-These are personal anecdotes, but they reflect the Western world’s [growing fa
-scination](http://www.vancouversun.com/health/Burnaby+school+applies+become+fi
+These are personal anecdotes, but they reflect the Western world’s [growing fascination](http://www.vancouversun.com/health/Burnaby+school+applies+become+fi
 rst+Canada+offer+traditional/7961658/story.html) with traditional and
 alternative medicines.
 
