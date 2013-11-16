@@ -2,6 +2,8 @@
 layout: post-no-title
 title: One Second From Thirty Days
 date: 2013-03-04
+tags:
+- article
 ---
 <div class="margin-b">
 	<figure class="img-wide big-box-shadow">

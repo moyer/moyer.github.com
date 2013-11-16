@@ -2,6 +2,8 @@
 layout: post
 title: Interview&colon; Living &amp; Working Abroad
 date: 2013-02-25
+tags:
+- article
 ---
 
 The amazing Hannah Braime, who is a friend and client of mine, interviewed me last week on her podcast. Hannah runs [Becoming Who You Are](http://www.becomingwhoyouare.net/), a personal development site with *tons* of resources. (I especially recommend her book on [journaling](http://www.becomingwhoyouare.net/tools/the-ultimate-guide-to-journaling/).)

@@ -2,6 +2,8 @@
 layout: post
 title: 50 Steps For Writing Fiction
 date: 2013-03-28
+tags:
+- article
 ---
 
 I'm a process nerd. I love studying and understanding the different workflows people use to accomplish their work. Since [writing fiction is really hard](http://willmoyer.com/writing-is-hard/) for me, I figured I'd share some of the steps in my workflow.

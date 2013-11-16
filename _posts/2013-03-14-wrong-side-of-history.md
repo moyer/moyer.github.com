@@ -2,6 +2,8 @@
 layout: post
 title: The Wrong Side of History
 date: 2013-03-14
+tags:
+- article
 ---
 
 I've been hearing the phrase "the wrong side of history" more and more recently. Those [against gay marriage](https://twitter.com/travyyb/status/309781528156721152) are on the wrong side of history. The [Pope](https://twitter.com/colm_ryan/status/282201858133594112) is on the wrong side of history. Obama is on the wrong side of history. Conservatives are on the wrong side of history.

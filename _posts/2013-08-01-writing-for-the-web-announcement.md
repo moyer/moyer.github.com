@@ -4,6 +4,8 @@ title: Writing For The Web
 date: 2013-08-01
 image: 2013-08-01-writing-for-the-web-announcement-book-mock.jpg
 caption: Writing For The Web
+tags:
+- article
 ---
 
 I wrote a book. It's called [*Writing For The Web*](http://writingfortheweb.co). It's a short guide for bloggers, journalists, copywriters, authors, and anybody else who writes.

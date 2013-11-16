@@ -2,6 +2,8 @@
 layout: post
 title: Oh Hey World Limited Beta
 date: 2013-03-19
+tags:
+- article
 ---
 
 Oh Hey World is a travel web app I've been working on for the past five months. [Drew Meyers](https://twitter.com/drewmeyers) and [Eric Roland](https://twitter.com/ericroland) hired me last summer to act as lead designer. Since then, we've been building several prototypes (both web and iOS), scrapping designs, adding features, and adapting to find the best way to break into the travel space.

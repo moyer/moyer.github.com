@@ -2,6 +2,8 @@
 layout: post-no-title
 title: Writing Is Hard
 date: 2013-02-17
+tags:
+- article
 ---
 
 

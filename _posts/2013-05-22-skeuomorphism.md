@@ -2,6 +2,8 @@
 layout: post-no-title
 title: Skeuomorphism
 date: 2013-05-22
+tags:
+- article
 ---
 
 <img class="img-wide margin-b margin-t" src="/assets/2013-05-22-skeuomorphism-title.png">

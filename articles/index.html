@@ -5,7 +5,7 @@ title: Articles
 
 <div>
 	<ul class="article-list">
-		{% for post in site.posts %}{% unless post.categories contains 'everyday' %}
+		{% for post in site.tags.article %}
 			{% if post.image != null %}
 			<li class="article-list__cover">
 				<a href="{{ post.url }}">
@@ -29,6 +29,6 @@ title: Articles
 				</a>
 			{% endif %}
 			</li>
-		{% endunless %}{% endfor %}
+		{% endfor %}
 	</ul>
 </div>
