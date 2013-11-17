@@ -6,4 +6,4 @@ date: 2013-10-03
 caption: Super Hexagon
 ---
 
-*This post has been moved [here](/the-lure-of-the-hard-game/).*
+*This post has been moved [here](http://willmoyer.com/the-lure-of-the-hard-game/).*
