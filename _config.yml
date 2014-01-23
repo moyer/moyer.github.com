@@ -3,3 +3,7 @@ permalink: /:categories/:title
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
+
+name: WillMoyer.com
+description: The personal site of Will Moyer
+url: http://willmoyer.com
