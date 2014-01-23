@@ -11,7 +11,7 @@ tags:
 
 Last week, Google acquired Nest, a programmable thermostat and smoke detector company, for $3.2 billion. In the last year, the company has also [purchased companies](http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Google) involved in robotic cameras, computer vision, humanoid robots, social prediction, and deep neural networks.
 
-It might be exciting, sci-fi stuff, but it also has people worrying about their privacy. The [NSA's mass surveillance programs](http://en.wikipedia.org/wiki/2013_Global_surveillance_disclosure) (and their involvement with major tech companies) rightly intensifies the issues.
+It might be exciting, sci-fi stuff, but it also has people worrying about their privacy. The [NSA's mass surveillance programs](http://en.wikipedia.org/wiki/2013_Global_surveillance_disclosure) (and their involvement with major tech companies) rightly intensifies the issue.
 
 But there's a problem with how we talk about privacy.
 
