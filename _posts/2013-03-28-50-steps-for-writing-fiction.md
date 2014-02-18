@@ -16,7 +16,7 @@ I can't say whether or not this process will work for you, but it certainly does
 4. Feel stressed because I really would like to write something.
 5. Argue with myself over I whether have anything worthwhile to write about anyway.
 6. Convince myself that my desire to write is a misplaced desire to do something else, like avoid client work.
-7. Convince myself that my desire to write is the most noble calling and quite possible my destiny.
+7. Convince myself that my desire to write is the most noble calling and quite possibly my destiny.
 8. Pace around my room.
 9. Sit down at my computer and open a text editor.
 10. Go to the bathroom.

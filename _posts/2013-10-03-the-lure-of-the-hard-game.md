@@ -12,7 +12,7 @@ As video games are becoming more mainstream, especially with the rise of gaming 
 
 I've been hearing about [Super Hexagon](http://superhexagon.com/) for about a year now, and finally decided to give it a try. Well it turns out that Super Hexagon is probably the most difficult game you will ever play, especially if you are a casual gamer.
 
-The basic mechanics are as follows. You control a triangle rotates around a center point. You must swivel the triangle to avoid incoming shapes. To get a sense of it, [watch this video](http://www.youtube.com/watch?v=2sz0mI_6tLQ). I know, it's trippy. Insane. Impossible.
+The basic mechanics are as follows. You control a triangle that rotates around a center point. You must swivel the triangle to avoid incoming shapes. To get a sense of it, [watch this video](http://www.youtube.com/watch?v=2sz0mI_6tLQ). I know, it's trippy. Insane. Impossible.
 
 Playing Super Hexagon -- and being shocked at its difficulty -- reminded me of when I first got into video games. Video games for the NES and SNES were hard. Really hard. And in addition to being hard, there were often no save points (except for games like Zelda) so if you lost, you had to replay everything up until that point just to lose again.
 
