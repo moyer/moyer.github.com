@@ -22,7 +22,7 @@ But after watching *Dirty Wars*, he's reconsidering. I felt the urge to respond 
 
 Sam Harris, a neuroscientist and public intellectual, who's written books on moral philosophy and human flourishing, has just decided -- literally, *just* decided -- that his government mass murdering people in secret with no oversight or accountability *might* be problematic. In fact, his "general sense of our actions abroad has grown conflicted." By "our" he means the American state, the murderous empire with which he self identifies.
 
-For Harris, the jury is still out on whether or not the mass surveillance state is a good thing. Whether Edward Snowden is a traitor remains to be seen by the moral philosopher. But at least he feels some embarrassment for being "so trusting and complacent with respect to [his] government's use of force." So, progress?
+The jury is still out on whether or not the mass surveillance state is a good thing. Whether Edward Snowden is a traitor remains to be seen by the moral philosopher. But at least he feels some embarrassment for being "so trusting and complacent with respect to [his] government's use of force." So, progress?
 
 ## The Sincerity
 
