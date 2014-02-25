@@ -45,3 +45,15 @@ The New Atheists are intelligent, rational people who may even identify themselv
 I call Sam Harris rational precisely because I believe he can be swayed by reason, evidence, and empathy. (The latter is what I assume was at work while watching *Dirty Wars*). I respect that he is able to change his mind. But I can't help but feel disappointment -- and some contempt -- that it is only now, in 2014, that Harris is beginning to suspect that the United States' continual and horrific use of violence is having a net negative affect on the world.
 
 The cynic in me sees this as incredibly depressing. The optimist is hopeful that Sam will take more than one step down the path of opposing state violence.
+
+### Update - February 25, 2014
+
+In response to the question: *Isn't Islam so destructive of an idealogy that it warrants some support for these programs?*
+
+Let's concede every point on Islam. Or take them to their most extreme (on the negative side). The Quran is a horrible work that inspires terrible behavior from people. Its doctrine is inherently destructive and malicious. That anyone who takes the doctrine seriously (a "true" Muslim) will be seriously influenced to commit violent acts. That there are many more True Muslims than we realize, and their number is increasing. That casual, cultural Muslims are being marginalized and having little influence on their societies.
+
+Even if you accept all of that -- which I don't, for the record -- how does that justify something like the American targeted killing/signature strike program? A program that an [NYU and Stanford study](http://www.livingunderdrones.org/) concluded kills 2% of the intended targets. [Two-percent](http://edition.cnn.com/2012/09/25/world/asia/pakistan-us-drone-strikes/). It is an engine of civilian mass murder. These aren't crazy militant Al-Qaeda operatives being killed. These are vegetable merchants, laborers, qat farmers, shop keepers, teachers, old men and women, husbands, wives, little children walking on the street, teenagers eating at restaurants, people at parties and [on the way to weddings](http://america.aljazeera.com/watch/shows/america-tonight/america-tonight-blog/2014/1/17/what-really-happenedwhenausdronehitayemeniweddingconvoy.html). They're normal people with normal lives who have no ability to hurt "America" even if they wanted to.
+
+I can't understand any justification -- even if we accept the danger of militant Islamists -- for this kind of destruction of human life. [Sam Harris thinks](http://www.huffingtonpost.com/sam-harris/in-defense-of-torture_b_8993.html) that if we don't accept the collateral damage (a vile fucking term when applied to humans) than "the thugs would inherit the earth." Well I've got news for you Sam, the thugs already own the place.
+
+If you want to find them, look to Washington. And to Moscow, and London, and Beijing. And maybe every other capital on the planet. But where you won't find them is in Northern goddamn Waziristan.
