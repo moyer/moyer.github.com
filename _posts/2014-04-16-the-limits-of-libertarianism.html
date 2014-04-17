@@ -8,40 +8,80 @@ tags:
 <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic|Merriweather+Sans:400,300italic,300,400italic,700,800,700italic,800italic' rel='stylesheet' type='text/css'>
 
 <style>
+
 	.limits-of-libertarianism {
 		font-family: 'Merriweather', serif;
 		font-weight: 300;
-		padding-top: 9rem;
-		padding-bottom: 9rem;
+		padding-top: 10.2rem;
+		padding-bottom: 10.2rem;
+		padding-right: .85rem;
+		padding-left: .85rem;
 		line-height: 1.7;
 		border-top: 5px solid #c33923;
 	}
+
+	@media only screen and (min-width: 630px) {
+    .limits-of-libertarianism {
+    	padding-left: 0;
+    	padding-right: 0;
+    }
+  }
 
 	.wrap {
 		max-width: 100%;
 		width: 38rem;
 		margin: 0 auto;
+		position: relative;
 	}
 
 	h1 {
 		font-family: 'Merriweather', serif;
 		font-weight: 300;
 		text-align: left;
-		font-size: 5rem;
+
+		font-size: 2.7rem;
+		left: .85rem;
 
 		color: #333;
 
 		position: relative;
 		width: 38rem;
 		margin: 0 auto;
-		margin-bottom: 3rem;
+		margin-bottom: 3.4rem;
+	}
+
+	@media only screen and (min-width: 630px) {
+    h1 {
+    	font-size: 5rem;
+    	left: 0;
+    }
+  }
+
+	.the-limits {
+		text-align: left;
+		display: block;
+		font-size: .6em;
+	}
+
+	.of {
+		font-style: italic;
+		font-size: .4em;
+		letter-spacing: -1px;
+		position: absolute;
+		top: 2.5em;
+		left: -1em;
 	}
 
 	h2 {
 		font-weight: 400;
 		border-bottom: 5px solid #eee;
-		margin-bottom: 3rem;
-		margin-top: 6rem;
+		margin-bottom: 3.4rem;
+		margin-top: 5.1rem;
+	}
+
+	p {
+		padding: 0;
+		margin-bottom: 1.7rem;
 	}
 
 	blockquote {
@@ -50,14 +90,105 @@ tags:
 		color: #666;
 	}
 
+	.aside-block {
+		width: 100%;
+		overflow: hidden;
+	}
+
+	.aside {
+		font-family: 'Merriweather Sans', sans-serif;
+		font-style: normal;
+		font-size: .6666666667rem;
+		background: #eee;
+		padding: .85rem;
+		width: 100%;
+		color: #666;
+		margin-bottom: 1.7rem;
+
+		-webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+    transition: all 0.3s ease-out;
+	}
+
+	.aside p {
+		margin: 0;
+	}
+
+	.aside--desk-only {
+		display: none;
+	}
+
+	@media only screen and (min-width: 630px) {
+		
+		.aside {
+			width: 18.5rem;
+		}
+
+		.aside--left {
+			float: left;
+		}
+
+		.aside--right {
+			float: right;
+		}
+	}
+	
+	@media only screen and (min-width: 1360px) {
+		
+		.aside {
+			width: 17rem;
+		}
+
+		.aside--desk-only {
+			display: block;
+		}
+
+
+		.aside--left {
+			position: absolute;
+			left: 0;
+			-webkit-transform: translate(-107%, 0px);
+			-moz-transform: translate(-107%, 0px);
+			-o-transform: translate(-107%, 0px);
+			-ms-transform: translate(-107%, 0px);
+			transform: translate(-107%, 0px);
+	}
+
+	.aside--right {
+		position: absolute;
+		right: 0;
+		-webkit-transform: translate(107%, 0px);
+		-moz-transform: translate(107%, 0px);
+		-o-transform: translate(107%, 0px);
+		-ms-transform: translate(107%, 0px);
+		transform: translate(107%, 0px);
+	}
+  }
+
+	.aside__title {
+		margin: 0;
+		text-align: center;
+		font-size: 1rem;
+		border-bottom: 1px solid #ccc;
+		margin-bottom: .85rem;
+		padding-bottom: .2rem;
+	}
+
+		.aside__title span {
+			display: block;
+			font-family: 'Merriweather', serif;
+			font-style: italic;
+			font-size: .666667rem;
+			font-weight: 300;
+		}
 
 	hr {
 		width: 12rem;
 		border: none;
+		height: 0;
 		border-top: 5px solid #eee;
 		margin: 0 auto;
-		margin-bottom: 3rem;
-		margin-top: 3rem;
+		margin-bottom: 3.4rem;
+		margin-top: 3.4rem;
 	}
 
 	.limits-of-libertarianism a, .limits-of-libertarianism a:visited, .limits-of-libertarianism a:active {
@@ -68,30 +199,21 @@ tags:
 		color: #c33923;
 	}
 
-	.the-limits {
-		text-align: left;
-		display: block;
-		font-size: 3rem;
-	}
-
-	.of {
-		font-style: italic;
-		font-size: 2rem;
-		letter-spacing: -1px;
-		position: absolute;
-		top: 5rem;
-		left: -2rem;
-	}
-
 	.valuable {
 		font-family: 'Merriweather Sans', sans-serif;
 		font-weight: 800;
-		font-size: 2rem;
+		font-size: 1rem;
 		color: #ddd;
 		text-align: center;
 		line-height: 6rem;
 		text-transform: uppercase;
 	}
+
+	@media only screen and (min-width: 630px) {
+    .valuable {
+    	font-size: 2rem;
+    }
+  }
 
 	.val-quotes {
 		font-family: 'Merriweather', serif;
@@ -99,9 +221,25 @@ tags:
 		letter-spacing: -5px;
 		color: #eee;
 		position: relative;
-		top: 2.5rem;
-		font-size: 6rem;
+
+		top: 1.5rem;
+		font-size: 3rem;
 	}
+
+	@media only screen and (min-width: 630px) {
+    .val-quotes {
+    	font-size: 6rem;
+    	top: 2.5rem;
+    }
+  }
+
+  .constraint-spectrum {
+  	display: block;
+  	margin: 0 auto;
+  	width: 57rem;
+  	max-width: 100%;
+  	margin-bottom: 1.7rem;
+  }
 
 </style>
 
@@ -144,15 +282,20 @@ tags:
 
 		<p>This essay is the result of an evolution in my thinking, one which has led me farther from &#8220;right&#8221; libertarianism and strict <a href="http://en.wikipedia.org/wiki/Anarcho-capitalism">anarcho-capitalism</a> toward  what could be described as radical, leftist anarchism, or maybe even <a href="http://en.wikipedia.org/wiki/Libertarian_socialism">libertarian-socialism</a>.</p>
 
-		<blockquote>
-		  <p>Adherents of libertarian socialism assert that a society based on freedom and equality can be achieved through abolishing authoritarian institutions that control certain means of production and subordinate the majority to an owning class or political and economic elite. Libertarian socialism also constitutes a tendency of thought that promotes the identification, criticism, and practical dismantling of illegitimate authority in all aspects of life. Accordingly, libertarian socialists believe that &#8220;the exercise of power in any institutionalized form &#8211; whether economic, political, religious, or sexual &#8211; brutalizes both the wielder of power and the one over whom it is exercised&#8221;.</p>
-		</blockquote>
+		<div class="aside-block">
+			<blockquote class="aside aside--right">
+				<h3 class="aside__title">Anarcho-Capitalism <span>from Wikipedia</span></h3>
+			  <p>Anarcho-capitalism (also referred to as free-market anarchism, market anarchism, private-property anarchism, libertarian anarchism) is a political philosophy which advocates the elimination of the state in favor of individual sovereignty, private property, and open markets. Anarcho-capitalists argue for a society based on the voluntary trade of private property and services (in sum, all relationships not caused by threats or violence, including exchanges of money, consumer goods, land, and capital goods) in order to minimize conflict while maximizing individual liberty and prosperity. However, they also recognize charity and communal arrangements as part of the same voluntary ethic.</p>
+			</blockquote>
+				
+			<blockquote class="aside aside--left">
+				<h3 class="aside__title">Libertarian Socialism <span>from Wikipedia</span></h3>
+			  <p>Adherents of libertarian socialism (sometimes called left-libertarianism) assert that a society based on freedom and equality can be achieved through abolishing authoritarian institutions that control certain means of production and subordinate the majority to an owning class or political and economic elite. Libertarian socialism also constitutes a tendency of thought that promotes the identification, criticism, and practical dismantling of illegitimate authority in all aspects of life. Accordingly, libertarian socialists believe that &#8220;the exercise of power in any institutionalized form &#8211; whether economic, political, religious, or sexual &#8211; brutalizes both the wielder of power and the one over whom it is exercised&#8221;.</p>
+			</blockquote>
+			</div>
+			<p>I&#8217;m going to make broad generalizations. It&#8217;s hard to criticize a body of thought like libertarianism. There is no one set definition of what a libertarian is or what they believe, so for any criticisms there will be countless exceptions. You can easily play the &#8220;<a href="http://en.wikipedia.org/wiki/No_true_Scotsman">no true Scotsman</a>&#8221; game with everything that follows. <em>Yes, many libertarians do think X, but they&#8217;re not really libertarians.</em> Therefore, I ask that you view my points as criticisms of general themes and attributes I&#8217;ve found in libertarian thought, rather than an indictment of everyone who self-identifies as libertarian. Particularly, they&#8217;re criticisms of elements of my own belief system when I considered myself libertarian.</p>
 
-		<p>One reason it&#8217;s been hard to write this piece is because it&#8217;s personal. I don&#8217;t typically write publicly about personal journeys, intellectual or emotional. I prefer persuasive or argumentative writing. But in this case it&#8217;s hard for me to separate the argumentation from my own personal transition.</p>
-
-		<p>Another reason is the broad generalizations I&#8217;m going to make. It&#8217;s hard to criticize a body of thought like libertarianism. There is no one set definition of what a libertarian is or what they believe, so for any criticisms there will be countless exceptions. You can easily play the &#8220;<a href="http://en.wikipedia.org/wiki/No_true_Scotsman">no true Scotsman</a>&#8221; game with everything that follows. <em>Yes, many libertarians do think X, but they&#8217;re not really libertarians.</em> Therefore, I ask that you view my points as criticisms of general themes and attributes I&#8217;ve found in libertarian thought, rather than an indictment of everyone who self-identifies as libertarian. Particularly, they&#8217;re criticisms of elements of my own belief system when I considered myself libertarian.</p>
-
-		<p>I was also hesitant to write this piece because I routinely see libertarians <a href="http://www.policymic.com/articles/73359/don-t-feed-the-trolls-and-other-advice-for-dealing-with-libertarians">smeared</a> and <a href="http://www.salon.com/2013/09/12/11_questions_to_see_if_libertarians_are_hypocrites/">ridiculed</a> in mainstream dialogue, specifically by leftists that support the current political institutions. That is a bandwagon I absolutely will not jump on. As <a href="http://ohtarzie.wordpress.com/2013/01/14/tarzie-faq/">Tarzie writes</a>:</p>
+		<p>I was hesitant to write this piece because I routinely see libertarians <a href="http://www.policymic.com/articles/73359/don-t-feed-the-trolls-and-other-advice-for-dealing-with-libertarians">smeared</a> and <a href="http://www.salon.com/2013/09/12/11_questions_to_see_if_libertarians_are_hypocrites/">ridiculed</a> in mainstream dialogue, specifically by leftists that support the current political institutions. That is a bandwagon I absolutely will not jump on. As <a href="http://ohtarzie.wordpress.com/2013/01/14/tarzie-faq/">Tarzie writes</a>:</p>
 
 		<blockquote>
 		  <p>I believe that anti-libertarian fear-mongering is increasingly being deployed as a stratagem of liberals and other statist lefts, in an effort to immunize the Democratic Party from any genuinely leveraged opposition from anti-imperialists and civil libertarians. In other words, the primary aim of stigmatizing libertarians is the fortification of state violence, as well as fortification of the primacy of the state itself. Its leading proponents are careerist idiots acting in the worst possible faith.</p>
@@ -162,11 +305,14 @@ tags:
 
 		<p>Furthermore, criticizing the ideas and the people I identify (or previously identified) with is a point of pride. Who better to levy judgments? If anyone is going to criticize the things I care about, it&#8217;s going to be me.</p>
 
+
 		<h2 id="the-ethical-rebut">The Ethical Rebut</h2>
 
 		<p>The limits of libertarianism begin with ethics.</p>
 
 		<p>Libertarians confine their moral reasoning to something called a &#8220;legal&#8221; or &#8220;political&#8221; ethic. This ethic, based on property rights and the <a href="http://en.wikipedia.org/wiki/Non-aggression_principle">non-aggression principle</a>, is the cornerstone of libertarian morality. But it is an intentionally limited moral framework.</p>
+
+		<img class="aside aside--right aside--desk-only" src="/assets/2014-04-16-the-limits-of-libertarianism-rothbard.jpg" alt="Murray Rothbard">
 
 		<p>Murray Rothbard <a href="http://mises.org/rothbard/ethics/twenty.asp">describes it here</a>:</p>
 
@@ -210,7 +356,7 @@ tags:
 
 		<hr />
 
-		<p>Treatment of animals is also outside of the political ethic. There is no such thing as animal rights &#8211; <a href="http://www.youtube.com/watch?v=sLqEk3BKoiQ&amp;feature=youtu.be&amp;t=1m15s">unless the animals request them</a> &#8211; so humans are free to treat animals however they want. The same is true of the planet in general. In order for the Earth itself to be considered under libertarian philosophy, it must be private property.</p>
+		<p>Treatment of animals is also outside of the political ethic. There are no animal rights &#8211; <a href="http://www.youtube.com/watch?v=sLqEk3BKoiQ&amp;feature=youtu.be&amp;t=1m15s">unless the animals request them</a> &#8211; so humans are free to treat animals however they want. The same is true of the planet in general. In order for the Earth itself to be considered under libertarian philosophy, it must be private property.</p>
 
 		<p>Other major social issues such as religion, race, gender, sexuality, and class dynamics are either analyzed only from within the property rights framework or not at all.</p>
 
@@ -259,7 +405,11 @@ tags:
 		<p>Like the starving-your-child issue, any moral objections you might have are outside the scope of the libertarian ethic. They reflect your <em>personal</em> morality which has no business being used to dictate social behaviors.</p>
 
 		<p>But choice isn&#8217;t binary. It&#8217;s a spectrum. There&#8217;s a gradient that we can use to measure how constrained a choice really is. On one end is outright force and on the other is pure, unconstrained freedom. But in between is a fuzzy gray area where economic, psychological, cultural, biological, and social forces are leaning on human decision making.</p>
+	</div><!-- temporarily end wrap -->
 
+		<img class="constraint-spectrum" src="/assets/2014-04-16-the-limits-of-libertarianism-constraint-spectrum.jpg" alt="">
+	
+	<div class="wrap">
 		<p>Most libertarians would admit that this spectrum exists, but there is still strong sentiment within libertarianism that any non-coercive relationship is good. And &#8211; within the political ethic &#8211; even if it isn&#8217;t &#8220;good,&#8221; it&#8217;s still permissible. That&#8217;s why you see <a href="http://bleedingheartlibertarians.com/2012/06/three-reasons-sweatshops-are-good-for-the-poor/">libertarians defending sweatshops</a>.</p>
 
 		<p>A poor Chinese factory worker is <em>far</em> more constrained than a rich white businessman. His range of possible options is tiny in comparison. He is less free. The same may be true depending on your race, gender, class, or sexual orientation. The way you were treated growing up &#8211; by your parents, teachers, and peers &#8211; may contribute. The way people like you are represented in media and entertainment may contribute. Social prejudices and cultural norms may contribute. These factors don&#8217;t mean people are being outright forced to do anything, but simply that they&#8217;re constrained by their environment. We all are, in different ways.</p>
