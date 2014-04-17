@@ -148,6 +148,8 @@ The degree to which I've moved away from libertarianism is the degree to which I
 
 My goal isn't a society based on property rights. My goal is human flourishing. I want an ethical, free, and humane planet. A world where humans take care of each other and other living creatures. I want a world of flattened hierarchies, including the non-violent ones. A world with human dignity. That may be a future where property rights -- as we think of them today -- don't exist. It may be a post-scarcity world full of abundance. It may be a world where our familiar social structures -- both macro and micro -- are vastly different. It's up to us to build it.
 
+---
+
 To those of you who consider yourselves libertarians, I say this:
 
 You don't have to reject your current beliefs. But you must expand them. Libertarianism's narrow views do a disservice to yourself and to the world. Widen the circle of your radicalism until it encompasses all of society. Leave no status quo unexamined. There is work to be done and radicals needed to do it.
