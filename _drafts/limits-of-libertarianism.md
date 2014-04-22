@@ -84,7 +84,7 @@ Treatment of animals is also outside of the political ethic. There are no animal
 
 Other major social issues such as religion, race, gender, sexuality, and class dynamics are either analyzed only from within the property rights framework or not at all.
 
-Lew Rockwell, too, affirms this position:
+[Lew Rockwell, too, affirms this position](https://www.lewrockwell.com/2014/03/lew-rockwell/what-libertarianism-is-and-isnt/):
 
 > Libertarianism is concerned with the use of violence in society. That is all. It is not anything else. It is not feminism. It is not egalitarianism (except in a functional sense: everyone equally lacks the authority to aggress against anyone else). It has nothing to say about aesthetics. It has nothing to say about religion or race or nationality or sexual orientation.
 
