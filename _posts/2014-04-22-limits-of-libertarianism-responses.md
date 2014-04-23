@@ -47,7 +47,7 @@ It's not entirely clear whether he's saying "libertarianism has nothing to say a
 Either way, it's not some crazy, bizarre assertion I'm pulling out of my ass.
 
 **Are you and [Cathy Reisenwitz](https://twitter.com/CathyReisenwitz) going to have babies?**  
-No, not until the Ministry of Reproduction tells instructs us to do so for the good of the social order. That's how human flourishing works. Also, try to be less of a dick.
+No, not until the Ministry of Reproduction instructs us to do so for the good of the social order. That's how human flourishing works. Also, try to be less of a dick.
 
 **Do you want people enforcing what other people should believe or value?**  
 No, but I'm fine with people persuading, criticizing, shaming, and ostracizing people who believe and value bad things. And no, "bad" doesn't have to be subjective.
