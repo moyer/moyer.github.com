@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Libertarianism&#58; Criticisms & Questions
+thumbnail: 2014-04-22-limits-of-libertarianism-responses-article-screencap.jpg
 date: 2014-04-22
 tags:
 - article
@@ -78,7 +79,7 @@ I haven't gotten any.
 I do what I can.
 
 **Isn't libertarianism necessary for a coherent anarchism?**  
-I don't see why. You can be an anarchist for purely utilitarian reasons -- a society without rulers is more efficient by X or Y standard -- that have nothing to do with property rights or rejecting aggression. That might be a less principled approach, but it's not an illegitimate form of anarchism.
+I don't see why. You can be an anarchist for purely utilitarian reasons -- a society without rulers is more efficient by X or Y standard -- that have nothing to do with property rights or rejecting aggression. That might be a less principled approach, but it's not an incoherent form of anarchism.
 
 **Wouldn't animal rights invade human rights?**  
 Yes, sometimes extending rights to other groups means a reduction in your own. That's a thing that happens. But I'm not really talking about rights when I'm talking about the treatment of animals. I'm just talking about things that I want libertarians to care about, but that get left out of a strictly political ethic. Same thing with the earth as a whole. More on this later.
