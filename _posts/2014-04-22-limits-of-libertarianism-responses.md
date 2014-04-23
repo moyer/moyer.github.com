@@ -69,7 +69,7 @@ I can't imagine a more laughable response. How many decades will it take before 
 
 I didn't just single out two random libertarians. I singled out figures who are foundational to current libertarian thought.
 
-It makes it even more embarrassing that if it wasn't for one person -- [Stefan Molyneux](http://www.freedomainradio.com/) -- this probably wouldn't even be an issue for libertarians. At least not a hotly contested one. And when was the last time for Stef Molyneux was invited to a libertarian conference to talk about child abuse? To whatever degree libertarians *shouldn't* be embarrassed about this, it's because of him.
+It makes it even more embarrassing that if it wasn't for one person -- [Stefan Molyneux](http://www.freedomainradio.com/) -- this probably wouldn't even be an issue for libertarians. At least not a hotly contested one. And when was the last time Stef Molyneux was invited to a libertarian conference to talk about child abuse? To whatever degree libertarians *shouldn't* be embarrassed about this, it's because of him.
 
 **You criticized libertarians for treating choice as a binary, black and white concept. What do you have to say to the responses?**  
 I haven't gotten any.
