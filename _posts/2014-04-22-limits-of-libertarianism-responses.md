@@ -6,6 +6,8 @@ tags:
 - article
 ---
 
+<meta property="og:image" content="{{ site.url }}/assets/2014-04-22-limits-of-libertarianism-responses-article-screencap.jpg" /> 
+
 My recent article [The Limits of Libertarianism](http://willmoyer.com/the-limits-of-libertarianism/) has received a lot of attention, including a 7000-word [response from Stephan Kinsella](http://www.stephankinsella.com/2014/04/the-limits-of-libertarianism-a-dissenting-view/). I appreciate him and everyone else who responded thoughtfully. As a result of the feedback, I recognize that many of my points were unclear or could have been presented better. I hope this post helps with that clarification to some degree. 
 
 <a href="/the-limits-of-libertarianism/"><img src="/assets/2014-04-22-limits-of-libertarianism-responses-article-screencap.jpg" alt="Limits of Libertarianism Article"></a>
