@@ -50,7 +50,7 @@ Either way, it's not some crazy, bizarre assertion I'm pulling out of my ass.
 No, not until the Ministry of Reproduction instructs us to do so for the good of the social order. That's how human flourishing works. Also, try to be less of a dick.
 
 **Do you want people enforcing what other people should believe or value?**  
-No, but I'm fine with people persuading, criticizing, shaming, and ostracizing people who believe and value bad things. And no, "bad" doesn't have to be subjective.
+No, but I'm fine with people persuading, criticizing, shaming, and ostracizing people who believe and value bad ideas. And no, "bad" doesn't have to be subjective.
 
 It's too much to go into now, but there are different ways of organizing society, of relating to people, or solving social issues and they're not all equal. They're not just a matter of personal preference because force isn't involved. Some are more optimal and some are less optimal.
 
