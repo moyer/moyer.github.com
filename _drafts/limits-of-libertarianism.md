@@ -28,7 +28,7 @@ It took me a long time to articulate why, but that's what I'm going to do now.
 
 ---
 
-This essay is the result of an evolution in my thinking, one which has led me farther from "right" libertarianism and strict [anarcho-capitalism](http://en.wikipedia.org/wiki/Anarcho-capitalism) toward  what could be described as radical, leftist anarchism, or maybe even [libertarian-socialism](http://en.wikipedia.org/wiki/Libertarian_socialism).
+This essay is the result of an evolution in my thinking, one which has led me further from "right" libertarianism and strict [anarcho-capitalism](http://en.wikipedia.org/wiki/Anarcho-capitalism) toward  what could be described as radical, leftist anarchism, or maybe even [libertarian-socialism](http://en.wikipedia.org/wiki/Libertarian_socialism).
 
 > Anarcho-capitalism (also referred to as free-market anarchism, market anarchism, private-property anarchism, libertarian anarchism) is a political philosophy which advocates the elimination of the state in favor of individual sovereignty, private property, and open markets. Anarcho-capitalists argue for a society based on the voluntary trade of private property and services (in sum, all relationships not caused by threats or violence, including exchanges of money, consumer goods, land, and capital goods) in order to minimize conflict while maximizing individual liberty and prosperity.
 
