@@ -197,7 +197,7 @@ don’t work.
 Real dentistry saves lives. Real vaccinations save lives. Real antibiotics
 save lives. Defending untested traditional medicines puts people at risk. In
 2008, the [World Health
-Organization](http://www.who.int/mediacentre/factsheets/fs134/en/index.html)
+Organization](http://www.who.int/mediacentre/factsheets/2003/fs134/en/)
 approximated that in some Asian and African countries “80% of the population
 depend on traditional medicine for primary health care.”
 
