@@ -39,8 +39,7 @@ English-speaking publications in major Asian cities run cutesy articles like
 case you’re wondering, traditional Chinese medicine suggests drinking hot tea
 to stay cool in the summer.)
 
-These are personal anecdotes, but they reflect the Western world’s [growing fascination](http://www.vancouversun.com/health/Burnaby+school+applies+become+fi
-rst+Canada+offer+traditional/7961658/story.html) with traditional and
+These are personal anecdotes, but they reflect the Western world’s [growing fascination](http://www.vancouversun.com/health/Burnaby+school+applies+become+first+Canada+offer+traditional+Chinese+medicine+degree/7961658/story.html) with traditional and
 alternative medicines.
 
 Indeed, even when not actively supporting alternative medicine, Westerners
