@@ -1,4 +1,3 @@
-auto: true
 permalink: /:categories/:title
 markdown: rdiscount
 rdiscount:
