@@ -597,7 +597,8 @@ h1, .alpha {
     line-height: 1.1;
 }
 
-@media only screen and (min-width: 630px) {
+
+@media only screen and (min-width: 850px) {
     h1, .alpha {
         font-size: 4.6rem;
         line-height: 1.1;
@@ -736,32 +737,41 @@ ul, ol {
     .cover__title {
         display: none;
         position: absolute;
-        bottom: 0;
         margin: 0;
         width: 100%;
         color: #fff;
         text-align: center;
-        padding: 0 10%;
-        padding-bottom: .85rem;
-        text-shadow: 0 1px 1px rgba(0,0,0,.5);
-        
-          background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,.5))); /* Chrome, Safari 4+ */
-          background-image: -webkit-linear-gradient(top, transparent, rgba(0,0,0,.5)); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
-          background-image:    -moz-linear-gradient(top, transparent, rgba(0,0,0,.5)); /* Firefox 3.6-15 */
-          background-image:      -o-linear-gradient(top, transparent, rgba(0,0,0,.5)); /* Opera 11.10-12.00 */
-          background-image:         linear-gradient(to bottom, transparent, rgba(0,0,0,.5)); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
-    }
+        padding: 0 5%;
+        padding-top: 3%;
 
-    @media only screen and (min-width: 630px) {
-        .cover__title {
-            display: block;
-        }
-    }
+        z-index: 300;
 
-.cover__img {
+        .center-transform;
+ }
+
+
+
+.cover__img img {
     width: 100%;
 }
 
+    @media only screen and (min-width: 630px) {
+        .cover__title {
+            display: block;    width: 100%;
+
+        }
+
+        .cover__img:before {
+            content: " ";
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            height: 100%;
+            background-color: rgba(0,0,0,.5);
+            z-index: 100;
+        }
+    }
 
 
 /* Site Footer */
