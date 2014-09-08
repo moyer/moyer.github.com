@@ -4,7 +4,9 @@ date: 2014-09-07
 title: Thoughts About The Apple Wearable
 ---
 
-- The device won't be focused on interaction. If it has a screen, it'll be for alerts and displaying small bits of information. If there is any interaction, it'll be minimal, like dismissing a notification. I doubt you'll be tapping out [text messages on your wrist](http://techcrunch.com/2014/09/03/hands-on-with-the-samsung-gear-s-smart-watch/). A lot of touching and tapping and talking to your wrist doesn't make for a good user experience. Plus, current battery technology puts some [serious constraints](http://daringfireball.net/linked/2014/09/05/apples-juice) on that kind of thing.
+- The device won't be focused on interaction. If it has a screen, it'll be for alerts and displaying small bits of information. If there is any interaction, it'll be minimal, like dismissing a notification. I doubt you'll be tapping out [text messages on your wrist](http://techcrunch.com/2014/09/03/hands-on-with-the-samsung-gear-s-smart-watch/). A lot of touching and tapping and talking to your wrist doesn't make for a good user experience. Plus, current battery technology puts some [serious constraints](http://daringfireball.net/linked/2014/09/05/apples-juice) on that kind of thing. I'll be very surprised if it's anything like the concept below.
+
+[![iWatch Concept](/assets/2014-09-07-iwatch-by-ciccarese.jpg)](http://www.ciccaresedesign.com/2013/08/20/iwatch/)
 
 - I wouldn't be surprised if there were models that didn't have a screen at all.
 
@@ -18,7 +20,9 @@ title: Thoughts About The Apple Wearable
 
 - Speaking of security, a wearable built for identity is a pretty good additional factor for multi-factor authentication. And it's convenient enough to not add an unacceptable amount of friction to an average user's life. (Also, maybe vibrating alerts when you get too far from your device, so your wristband will help prevent you from losing your phone.)
 
-- A wearable centered around identity also meshes well with fashion. Fashion is a statement of personality. An Apple wristband/watch would say "this is who I am" both in functionality and form. It would have to respect that aspect of fashion to be viable anyway, since that is a dominant reason people wear things. (It's also in-line with how Apple treats its other products. Like it or not, they're statements about taste as much as anything else.) Expect [classy watch models](http://www.vanityfair.com/online/daily/2014/09/marc-newson-apple-jony-ive), at least eventually.
+- A wearable centered around identity also meshes well with fashion. Fashion is a statement of personality. An Apple wristband/watch would say "this is who I am" both in functionality and form. It would have to respect that aspect of fashion to be viable anyway, since that is a dominant reason people wear things. (It's also in-line with how Apple treats its other products. Like it or not, they're statements about taste as much as anything else.) Expect [classy watch models](http://www.vanityfair.com/online/daily/2014/09/marc-newson-apple-jony-ive), at least eventually. Maybe something closer to this:
+
+[![iWatch Concept by Balogh](/assets/2014-09-07-iwatch-by-balogh.jpg)](https://www.behance.net/gallery/Smartwatch-Concept/14929833)
 
 - It'll have all the cool sensors that Fitbit and the Nike Fuelband had. Movement tracking and silent alarms and sleep measurement and everything else, all with better integration into your phone. (I wore a Fitbit for those features alone, without an interactive screen or it being particularly fashionable.) Roll in the identity stuff and some stylish designs and you have a pretty compelling product.
 
