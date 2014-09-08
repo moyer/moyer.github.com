@@ -16,7 +16,7 @@ title: Thoughts About The Apple Wearable
 
 - Imagine a future where all your data is stored on the cloud and every device is simply a terminal that accesses that data. You can sit down on any Mac in the world or pick up any iOS device and because you're wearing some kind of identifying device, it'll instantly be tailored and personalized for you. You'd see your homescreen and your apps. Your documents would be there. Obviously that's a long way off -- and creates all kinds of data security issues -- but I think the wearable is a step in that direction.
 
-- Speaking of security, a wearable built for identity is a pretty good additional factor for multi-factor authentication. And it's convenient enough to not add an unacceptable amount of friction to an average user's life.
+- Speaking of security, a wearable built for identity is a pretty good additional factor for multi-factor authentication. And it's convenient enough to not add an unacceptable amount of friction to an average user's life. (Also, maybe vibrating alerts when you get too far from your device, so your wristband will help prevent you from losing your phone.)
 
 - A wearable centered around identity also meshes well with fashion. Fashion is a statement of personality. An Apple wristband/watch would say "this is who I am" both in functionality and form. It would have to respect that aspect of fashion to be viable anyway, since that is a dominant reason people wear things. (It's also in-line with how Apple treats its other products. Like it or not, they're statements about taste as much as anything else.) Expect [classy watch models](http://www.vanityfair.com/online/daily/2014/09/marc-newson-apple-jony-ive), at least eventually.
 
