@@ -48,7 +48,7 @@ The cynic in me sees this as incredibly depressing. The optimist is hopeful that
 
 ### Update - February 25, 2014
 
-In response to the question: *Isn't Islam so destructive of an idealogy that it warrants some support for these programs?*
+In response to the question: *Isn't Islam so destructive of an ideology that it warrants some support for these programs?*
 
 Let's concede every point on Islam. Or take them to their most extreme (on the negative side). The Quran is a horrible work that inspires terrible behavior from people. Its doctrine is inherently destructive and malicious. That anyone who takes the doctrine seriously (a "true" Muslim) will be seriously influenced to commit violent acts. That there are many more True Muslims than we realize, and their number is increasing. That casual, cultural Muslims are being marginalized and having little influence on their societies.
 
