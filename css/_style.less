@@ -835,25 +835,42 @@ ul, ol {
 \*------------------------------------*/
 
 .portfolio {
-    .clearfix;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    background-color: #111;
 }
 
 .portfolio__img {
-    float: left;
+    display: block;
     width: 100%;
-    border: .425rem solid #111;
+    border-bottom: 10px solid #111;
 }
 
 @media only screen and (min-width: 630px) {
-        .portfolio__img { 
-            width: 33.33333%; 
-            border: .425rem solid #111;
+        .portfolio__img {
+            width: 49%;
+            margin-bottom: .5%;  
+            margin-top: .5%;  
+            border: none;
+            /*box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */     
+        }
+    }
+
+@media only screen and (min-width: 1200px) {
+        .portfolio {
+            padding-left: 150px;   
+            padding-right: 150px;   
         }
     }
 
 
-
-
+.portfolio__img img {
+    width: 100%;
+    display: block;
+}
 
 
 /*------------------------------------*\
